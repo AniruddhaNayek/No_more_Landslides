@@ -77,7 +77,7 @@ Coming soon
 
 ## Additional details
 
-**Real time simulation of obtaining information through sensors of area to be monitored for landslides ( Phase-2 deployment plan )**
+**Real time simulation of obtaining geological-information through sensors of area to be monitored for landslides ( Phase-2 deployment plan )**
 
 To predict the landslides for a particular region its significant to monitor the factors like temperature,humidity,weather,soil etc of
 that particular region.
